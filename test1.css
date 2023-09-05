@@ -29,21 +29,21 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(img/flow01.png);
+  background-image: url(https://raw.githubusercontent.com/k7901/test1/0b77ef82dcde2566cf940d289d4ed3ed9faac08b/img/flow01.png);
   background-position: top;
   background-size: cover;
 }
 
 .step-img2 {
   height: 150px;
-  background-image: url(img/flow02.png);
+  background-image: url(https://raw.githubusercontent.com/k7901/test1/0b77ef82dcde2566cf940d289d4ed3ed9faac08b/img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url(https://raw.githubusercontent.com/k7901/test1/0b77ef82dcde2566cf940d289d4ed3ed9faac08b/img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
